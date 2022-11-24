@@ -1,1 +1,1 @@
-No tomar en cuenta el test "CreditoTest"
+No tomar en cuenta el test "CreditoTest.java" para el TP integrador.
