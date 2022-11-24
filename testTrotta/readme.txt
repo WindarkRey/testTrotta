@@ -1,1 +1,1 @@
-En esta carpeta se encontrarán los test correspondientes al TP Integrador.
+No tomar en cuenta el test "CreditoTest"
