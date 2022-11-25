@@ -141,7 +141,7 @@ import pista.PistaSimple;
 			
 			nivelUno.aterrizarAviones();
 			
-			assertEquals(nivelUno.tieneAvionesVolando(), true, "Error - Debe haber al menos un avion que haya aterrizado.");
+			assertEquals(!nivelUno.tieneAvionesVolando(), true, "Error - Debe haber al menos un avion que haya aterrizado.");
 			
 			
 		}
