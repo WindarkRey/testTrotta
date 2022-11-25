@@ -128,7 +128,7 @@ public class JuegoTest {
 	
 	void elJuegoFinalizo () {
 				
-		assertEquals(juego.esJuegoGanado(), true);		// El juego finalizó.
+		assertEquals(!juego.esJuegoGanado(), true);		// El juego finalizó.
 		
 	}
 	
