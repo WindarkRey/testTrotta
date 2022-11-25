@@ -132,6 +132,8 @@ import pista.PistaSimple;
 			
 		}
 		
+		@Test
+		
 		void verificarAterrizajeDeAvion () {
 			
 			mapaDeJuego.setPistas(pistas);
